@@ -14,7 +14,7 @@ import random
 
 
 #Opening Statement
-print("        Welcome to Twotter!")
+print("        Welcome to Quiksand!")
 print("      |A Total Waste Of Time|")
 print(" Please Create an Account or Log in!")
 print("____________________________\n")
